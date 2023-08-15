@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by LaithYT.
- * User: Laith98
- * Date: 2018/06/13
- * Time: 13:39
- */
 
 namespace AntiCheat;
 
