@@ -1,0 +1,9 @@
+---
+ForceOP: true
+Gamemode: true
+Fly: true
+fly_perm: "fly.command"
+fly_kick: "§b§lCrystalMC >> Gamemode detected!"
+gamemode_kick: "§b§lCrystalMC >> Gamemode detected!"
+forceop_ban: "§b§lCrystalMC >> ForceOP detected!"
+...
